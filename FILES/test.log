@@ -1,0 +1,15 @@
+WARNING:root:this is my warning log
+ERROR:root:this is my error log
+WARNING:root:this is my warning log
+ERROR:root:this is my error log
+INFO:root:this is my info log
+WARNING:root:this is my warning log
+ERROR:root:this is my error log
+2022-01-27 18:17:11,795 this is my info log
+2022-01-27 18:17:11,795 this is my warning log
+2022-01-27 18:18:16,735 this is my info log
+2022-01-27 18:18:16,735 this is my warning log
+2022-01-27 18:18:16,736 this is my debug log
+2022-01-27 18:53:44,589 INFO this is my info log
+2022-01-27 18:53:44,591 WARNING this is my warning log
+2022-01-27 18:53:44,592 DEBUG this is my debug log

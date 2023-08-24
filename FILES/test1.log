@@ -1,0 +1,9 @@
+2022-01-27 21:06:42,235 INFO this is a start of my code and i am try to enter 4 and 5
+2022-01-27 21:06:42,236 INFO executed succ
+2022-01-27 21:07:49,658 INFO this is a start of my code and i am try to enter 4 and 0
+2022-01-27 21:07:49,658 ERROR Errog has happend 
+2022-01-27 21:07:49,658 ERROR Exception occured division by zero
+Traceback (most recent call last):
+  File "<ipython-input-2-fd7c1b5a248b>", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
